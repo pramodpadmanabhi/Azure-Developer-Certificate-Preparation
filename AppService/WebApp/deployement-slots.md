@@ -14,3 +14,6 @@
   | Standard  | 5             |
   | Premium   | 20            |
   | Isolated  | 20            |
+
+* AppService warms-up the app by sending a request to the root of the site
+* Host Names are not shared between deployment slots
