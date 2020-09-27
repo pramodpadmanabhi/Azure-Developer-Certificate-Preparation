@@ -28,5 +28,9 @@
      * app is resource intensive
      * needs resources on different geographical locations
      * scale independently from other apps
+ 
+ # Resource Group
+ * It is a logical container for managing resources in Azure
+     
       
 
