@@ -17,3 +17,7 @@
 
 * AppService warms-up the app by sending a request to the root of the site
 * Host Names are not shared between deployment slots
+
+# Configure Slot Settings
+* Configuration can be set Slot using Application Settings in Configuration Page
+* Connection Strings can also be Set
