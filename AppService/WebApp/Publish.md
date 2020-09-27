@@ -18,14 +18,14 @@
 * size of VM Instances
 * Region ... includes selecting geographical location where plan will be hosted
 * Pricing Tier
-      1) Shared Compute -> Shared & free, runs app on same Azure VM with other customers
-      2) Dedicated Compute -> apps on the same service plan share same compute resources 
-                              * Basic 
-                              * Standard- prduction ready apps
-                              * Premium - high capacity web apps
-      3) Isolated Resources -> runs on dedicated Azure Virtual Network 
-                              * app is resource intensive
-                              * needs resources on different geographical locations
-                              * scale independently from other apps 
+      1) Shared Compute -> Shared & free, runs app on same Azure VM with other customers <br/>
+      2) Dedicated Compute    1. apps on the same service plan share same compute resources <br/>
+                              2 .Basic <br/>
+                              3 .Standard- prduction ready apps <br/>
+                              4 .Premium - high capacity web apps <br/>
+      3) Isolated Resources -> runs on dedicated Azure Virtual Network <br/>
+                              1 .app is resource intensive <br/>
+                              2 .needs resources on different geographical locations <br/>
+                              3 .scale independently from other apps <br/>
       
 
