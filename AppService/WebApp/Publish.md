@@ -7,3 +7,16 @@
 
 * ASP.NET & Web Development
 * Azure Development
+
+# App Service
+
+* App Service is a platform for hosting application 
+* Ideal for Websites which does not have tight control over infrastructure
+
+#App Service Plan
+
+* Defines compute resources  
+* no of VM Instances
+* size of VM Instances
+* Region
+* Pricing Tier
