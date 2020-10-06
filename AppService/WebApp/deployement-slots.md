@@ -21,3 +21,8 @@
 # Configure Slot Settings
 * Configuration can be set Slot using Application Settings in Configuration Page
 * Connection Strings can also be Set
+
+# Scale App Service to meet demand with app service scale up and scale out
+  ##### Why to Scale?
+  * App should remain responsive during high demand
+  * Reduce cost of resources during low demand
